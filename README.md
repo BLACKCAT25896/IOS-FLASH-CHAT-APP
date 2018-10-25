@@ -19,5 +19,5 @@ end
 
 
 
-Copyright 2016 London App Brewery
+Copyright 2018 Jaman IOS Development
 # IOS-FLASH-CHAT-APP
